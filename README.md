@@ -31,8 +31,8 @@ Pastikan perangkat kamu sudah terinstal:
 ### 1. Clone Repository
 
 ```bash
-git clone <url-repository>
-cd aplikasi-blog
+git clone https://github.com/Haikaljbr/aplikasi-blog-230605110067
+cd aplikasi-blog-230605110067
 ```
 
 ### 2. Install Dependency PHP
